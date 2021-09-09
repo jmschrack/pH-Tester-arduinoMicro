@@ -21,6 +21,8 @@ This communicates over USB serial. (9600 baud,  Carriage Return delimiter)
 
 # Hardware Setup
 
-![probe connected to pH reader chip connected to isolater wired up to arduino micro](photo.png)
-
 Just follow the wiring diagram on Atlas Scientific's website for the Analog pH meter.  (The pinout for the isolater chip is the same. Ignore the "square wave" pin.)
+
+![probe connected to pH reader chip connected to isolater wired up to arduino micro](photo.jpg)
+
+I used 2 generic "Portion Pack" bags to isolate and protect the arduino and the sensor boards from moisture, while I work on a 3d print enclosure.
